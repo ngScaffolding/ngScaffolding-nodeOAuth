@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@angular/core": "^7.2.14",
+    "@angular/core": "^11.0.5",
     "@types/highcharts": "^5.0.22",
     "angular-highcharts": "^6.2.6",
     "highcharts": "^6.0.7",
