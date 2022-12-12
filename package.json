@@ -54,7 +54,7 @@
     "cors": "^2.8.4",
     "debug": "^3.1.0",
     "dotenv": "^6.0.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "fs-extra": "^7.0.1",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-typescript": "^4.0.2",
